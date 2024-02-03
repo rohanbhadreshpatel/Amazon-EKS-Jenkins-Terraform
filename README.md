@@ -42,4 +42,3 @@ Or you can run it from Maven directly using the Spring Boot Maven plugin. If you
 ```
 ./mvnw spring-boot:run
 ```
-# Athentification_Flutter-Login-Register-
